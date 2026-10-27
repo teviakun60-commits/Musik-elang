@@ -1,0 +1,6 @@
+
+pyrogram==2.0.106
+py-tgcalls[pyrogram]==3.0.0
+yt-dlp[default]
+fastapi
+uvicorn
